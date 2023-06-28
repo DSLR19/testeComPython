@@ -1,0 +1,1 @@
+Este documento se trata de alguns códigos com a linguegem Python, foi feito em grupo com os integrentes Daniel, Leidylane, Flaviane e João.
